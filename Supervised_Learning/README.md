@@ -77,5 +77,5 @@ A collection of Jupyter notebooks and Python implementations covering fundamenta
 ### Clone the repository
 
 ```bash
-git clone <>
-cd <>
+git clone <https://github.com/RajatBhardwaj2006/Artificial-Intelligence-and-Machine-Learning/tree/7830dbc73a02fd1abeedeab97a7eb99e61d509b0/Supervised_Learning>
+cd <https://github.com/RajatBhardwaj2006/Artificial-Intelligence-and-Machine-Learning/tree/7830dbc73a02fd1abeedeab97a7eb99e61d509b0/Supervised_Learning>
