@@ -37,5 +37,5 @@ A collection of Jupyter notebooks demonstrating common machine learning and data
 ### Clone the repository
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone <https://github.com/RajatBhardwaj2006/Artificial-Intelligence-and-Machine-Learning/tree/d51f68bee95f880496e4a19ba6f28e76f461496b/Unsupervised_Learning>
+cd <https://github.com/RajatBhardwaj2006/Artificial-Intelligence-and-Machine-Learning/tree/d51f68bee95f880496e4a19ba6f28e76f461496b/Unsupervised_Learning>
