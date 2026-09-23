@@ -53,3 +53,40 @@ This repository is structured into progressive modules reflecting core theoretic
 ├── models/                 # Saved model weights (.pth)
 ├── logs/                   # Training metrics and TensorBoard logs
 └── requirements.txt        # Project dependencies
+
+```
+
+# Cliff Walking — SARSA Reinforcement Learning
+
+This folder contains a visual example of the **Cliff Walking problem** using the **SARSA (State-Action-Reward-State-Action)** Reinforcement Learning algorithm.
+
+The agent learns to navigate from the starting position to the goal while avoiding the cliff.
+
+
+## Learning Progress
+
+The following images show how the agent progresses while learning the environment.
+
+### 1. Start
+
+The agent begins with little knowledge about the environment and starts exploring different actions.
+
+![Cliff Walking - Start](https://raw.githubusercontent.com/RajatBhardwaj2006/Artificial-Intelligence-and-Machine-Learning/main/Reinforcement_Learning/CliffWalking/Start.png)
+
+---
+
+### 2. Midway
+
+After interacting with the environment, the agent begins learning which actions lead to better outcomes.
+
+![Cliff Walking - Midway](https://raw.githubusercontent.com/RajatBhardwaj2006/Artificial-Intelligence-and-Machine-Learning/main/Reinforcement_Learning/CliffWalking/Mid_way.png)
+
+---
+
+### 3. End
+
+After training, the agent has learned a policy for navigating toward the goal while avoiding the cliff.
+
+![Cliff Walking - End](https://raw.githubusercontent.com/RajatBhardwaj2006/Artificial-Intelligence-and-Machine-Learning/main/Reinforcement_Learning/CliffWalking/End.png)
+
+---
