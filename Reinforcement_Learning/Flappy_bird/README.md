@@ -46,7 +46,7 @@ Flappy_bird/
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/RajatBhardwaj2006/Artificial-Intelligence-and-Machine-Learning/tree/96165ea0f596ee5c41d75e8a8f79d5da4ca91378/Reinforcement_Learning/Flappy_bird>
 cd Flappy_bird
 ```
 
