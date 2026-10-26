@@ -1,6 +1,6 @@
 
 # Flask Web Applications & AI Assistant
-
+    
 A collection of Python and Flask projects demonstrating web application development, API integration, template inheritance, authentication, and AI assistant functionality.
 
 ## 📁 Repository Contents
