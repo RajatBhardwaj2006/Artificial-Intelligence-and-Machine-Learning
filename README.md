@@ -1,471 +1,512 @@
-  # 🤖 Machine Learning & Data Science Learning Journey
-                
-Welcome to my **Machine Learning & Data Science learning repository**! 🚀
+<div align="center">
 
-This repository contains my notes, practice code, projects, and implementations as I learn and explore **Python, Data Analysis, Machine Learning, SQL, Data Visualization, and AI**.
+# 🤖 MACHINE LEARNING & DATA SCIENCE
 
-The goal of this repository is to build a strong foundation in Machine Learning by learning concepts, implementing them from scratch where possible, and applying them to practical projects.
+### From Python Fundamentals to Intelligent Systems.
 
----
+**A journey of learning, experimenting, building, and understanding Artificial Intelligence.**
 
-## 📚 What I've Learned
+<br>
 
-### 🐍 Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-The foundation of my Machine Learning journey.
+<br>
 
-Topics include:
+![Status](https://img.shields.io/badge/Status-Actively%20Learning-success?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Machine%20Learning-blue?style=flat-square)
+![Learning](https://img.shields.io/badge/Mindset-Continuous%20Improvement-purple?style=flat-square)
 
-* Python fundamentals
-* Variables & Data Types
-* Conditional Statements
-* Loops
-* Functions
-* Lists, Tuples, Sets & Dictionaries
-* Object-Oriented Programming
-* File Handling
-* Exception Handling
-* Modules & Packages
-* Practice problems
-
-📁 **Folder:** `Python/`
+</div>
 
 ---
 
-### 🔢 NumPy
+## 🧬 About This Repository
 
-Learning numerical computing and working with arrays.
+Welcome to my Machine Learning & Data Science learning repository!
 
-Topics include:
+This repository documents my journey through the world of **Data Science, Machine Learning, and Artificial Intelligence**.
 
-* NumPy arrays
-* Array indexing & slicing
-* Array operations
-* Broadcasting
-* Mathematical operations
-* Statistical operations
-* Reshaping arrays
-* Random numbers
-* Linear algebra basics
+It is more than a collection of Python programs. It is a structured record of concepts I've explored, algorithms I've implemented, problems I've solved, and projects I've built along the way.
 
-📁 **Folder:** `Numpy/`
+My approach is simple:
 
----
+- Understand the mathematics and logic behind algorithms.
+- Implement concepts through practical coding.
+- Experiment with real-world datasets.
+- Analyze results and understand model behavior.
+- Turn theoretical knowledge into working projects.
 
-### 🐼 Pandas
-
-Learning how to work with structured datasets and perform data analysis.
-
-Topics include:
-
-* Series & DataFrames
-* Reading CSV/Excel files
-* Data selection & filtering
-* Handling missing values
-* Data cleaning
-* Sorting
-* GroupBy
-* Aggregation
-* Merging & joining datasets
-* Data transformation
-* Exploratory Data Analysis (EDA)
-
-📁 **Folder:** `Pandas/`
+**The objective:** Develop the skills required to engineer intelligent systems, not just use existing libraries.
 
 ---
 
-### 📊 Matplotlib
+## 🗺️ Learning Architecture
 
-Learning data visualization using Python.
+My learning journey is organized into several interconnected domains.
 
-Topics include:
+<div align="center">
 
-* Line plots
-* Bar charts
-* Histograms
-* Scatter plots
-* Pie charts
-* Subplots
-* Labels & titles
-* Customizing plots
-* Visualizing datasets
+| Domain | Focus |
+|:---:|---|
+| 🐍 **Programming** | Python fundamentals and problem solving |
+| 🔢 **Numerical Computing** | NumPy and mathematical operations |
+| 🐼 **Data Analysis** | Pandas, preprocessing and EDA |
+| 📊 **Visualization** | Matplotlib and Seaborn |
+| 🗄️ **Databases** | SQL and data querying |
+| 🤖 **Machine Learning** | Supervised and unsupervised algorithms |
+| 🌐 **Web Fundamentals** | HTML and CSS |
+| 🚀 **Projects** | Practical implementations and experiments |
 
-📁 **Folder:** `Matplotlib/`
-
----
-
-### 📈 Seaborn
-
-Learning statistical data visualization and creating more informative plots.
-
-Topics include:
-
-* Distribution plots
-* Count plots
-* Box plots
-* Violin plots
-* Scatter plots
-* Heatmaps
-* Pair plots
-* Correlation visualization
-* Statistical visualization
-
-📁 **Folder:** `Seaborn/`
+</div>
 
 ---
 
-### 🗄️ SQL
+# 📚 01. Programming & Data Foundations
 
-Learning how to work with databases and retrieve useful information from data.
+### 🐍 Python Programming
 
-Topics include:
+The foundation of my journey into AI and Machine Learning.
 
-* SQL fundamentals
-* SELECT
-* WHERE
-* ORDER BY
-* GROUP BY
-* HAVING
-* Aggregate functions
-* JOINs
-* Subqueries
-* CASE statements
-* Data manipulation
-* Database concepts
+**Concepts explored:**
+- Variables, data types and operators
+- Conditional statements and loops
+- Functions and lambda expressions
+- Lists, tuples, sets and dictionaries
+- Object-Oriented Programming
+- File handling and exception handling
+- Modules, packages and libraries
+- Programming exercises and problem solving
 
-📁 **Folder:** `SQL/`
+`Directory: Python/`
+
+### 🔢 NumPy — Numerical Computing
+
+Learning efficient numerical computation and multidimensional array manipulation.
+
+**Concepts explored:**
+- Array creation and manipulation
+- Indexing and slicing
+- Broadcasting
+- Mathematical and statistical operations
+- Reshaping and array transformation
+- Random number generation
+- Linear algebra fundamentals
+
+`Directory: Numpy/`
+
+### 🐼 Pandas — Data Manipulation & Analysis
+
+Working with structured datasets and transforming raw information into meaningful insights.
+
+**Concepts explored:**
+- Series and DataFrames
+- Importing CSV and Excel datasets
+- Data selection and filtering
+- Missing value treatment
+- Data cleaning and preprocessing
+- Sorting and grouping
+- Aggregation operations
+- Merging and joining datasets
+- Exploratory Data Analysis
+
+`Directory: Pandas/`
+
+### 📊 Matplotlib & Seaborn — Data Visualization
+
+Understanding data through visual representation.
+
+**Matplotlib:**
+- Line and bar plots
+- Histograms
+- Scatter plots
+- Pie charts
+- Subplots
+- Plot customization
+
+**Seaborn:**
+- Distribution plots
+- Count plots
+- Box and violin plots
+- Heatmaps
+- Pair plots
+- Correlation analysis
+
+`Directories: Matplotlib/ | Seaborn/`
+
+### 🗄️ SQL — Database Management
+
+Learning to retrieve, manipulate and analyze information stored in relational databases.
+
+**Concepts explored:**
+- SELECT, WHERE and ORDER BY
+- GROUP BY and HAVING
+- Aggregate functions
+- INNER, LEFT, RIGHT and FULL JOIN
+- Subqueries
+- CASE statements
+- Data manipulation
+- Database fundamentals
+
+`Directory: SQL/`
 
 ---
 
-## 🤖 Machine Learning
+# 🤖 02. Machine Learning
 
-The main focus of this repository.
+The central focus of this repository.
 
-I am learning the concepts behind Machine Learning and implementing different algorithms using Python and popular ML libraries.
-
----
+My objective is to understand how machines learn patterns from data, make predictions, identify relationships and generate useful insights.
 
 ## 🎯 Supervised Learning
 
-Supervised Learning involves learning from labeled data.
+Learning from labeled datasets where the model uses input-output relationships to make predictions.
 
-Topics covered include:
+### Regression Algorithms
 
-### Regression
+| Algorithm | Learning Focus |
+|---|---|
+| Linear Regression | Understanding linear relationships |
+| Multiple Linear Regression | Multiple independent variables |
+| Regression Metrics | Measuring prediction errors |
 
-* Linear Regression
-* Multiple Linear Regression
-* Regression evaluation
-* Prediction
-* Model performance
+### Classification Algorithms
 
-### Classification
+| Algorithm | Learning Focus |
+|---|---|
+| Logistic Regression | Probability-based classification |
+| K-Nearest Neighbors | Distance-based classification |
+| Decision Trees | Rule-based decision making |
+| Random Forest | Ensemble learning |
+| Support Vector Machines | Maximum-margin classification |
 
-* Logistic Regression
-* K-Nearest Neighbors (KNN)
-* Decision Trees
-* Random Forest
-* Support Vector Machines (SVM)
-* Classification metrics
+### Model Evaluation
 
-### Evaluation Metrics
+Understanding how to evaluate model performance and generalization.
 
-* Accuracy
-* Precision
-* Recall
-* F1 Score
-* Confusion Matrix
-* Mean Squared Error
-* Mean Absolute Error
-* R² Score
+- Accuracy
+- Precision and Recall
+- F1 Score
+- Confusion Matrix
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- R² Score
 
-📁 **Folder:** `Supervised_Learning/`
-
----
+`Directory: Supervised_Learning/`
 
 ## 🔍 Unsupervised Learning
 
-Unsupervised Learning focuses on finding patterns and structures in data without labeled target variables.
-
-Topics include:
+Discovering hidden structures and patterns in datasets without predefined target labels.
 
 ### Clustering
 
-* K-Means Clustering
-* Hierarchical Clustering
-* Cluster analysis
-* Choosing the number of clusters
-* Visualization of clusters
+- K-Means Clustering
+- Hierarchical Clustering
+- Cluster analysis
+- Choosing optimal K
+- Elbow Method
+- Silhouette Score
 
 ### Dimensionality Reduction
 
-* Understanding high-dimensional data
-* Feature reduction
-* PCA concepts
+- High-dimensional data
+- Feature reduction
+- Principal Component Analysis (PCA)
+- Understanding explained variance
 
-📁 **Folder:** `Unsupervised_Learning/`
-
----
-
-## 🧹 Data Collection
-
-Working with different methods of collecting and preparing data for analysis and Machine Learning.
-
-Topics include:
-
-* Collecting datasets
-* Working with CSV files
-* Data preprocessing
-* Data cleaning
-* Preparing data for ML models
-* Exploratory Data Analysis
-
-📁 **Folder:** `Data_Collection/`
+`Directory: Unsupervised_Learning/`
 
 ---
 
-## 🌐 HTML & CSS
+# 🧹 03. Data Collection & Preprocessing
 
-Basic web development knowledge that can be useful for creating simple interfaces and presenting projects.
+Understanding how raw data becomes usable information for Machine Learning.
 
-### HTML
+**Areas of exploration:**
 
-* HTML structure
-* Elements & attributes
-* Forms
-* Tables
-* Links
-* Images
+- Dataset collection
+- CSV file handling
+- Data preprocessing
+- Missing value treatment
+- Data cleaning
+- Feature preparation
+- Exploratory Data Analysis
+- Preparing datasets for model training
 
-📁 **Folder:** `HTML/`
-
-### CSS
-
-* Selectors
-* Colors
-* Fonts
-* Box model
-* Flexbox
-* Layout
-* Styling web pages
-
-📁 **Folder:** `CSS/`
+`Directory: Data_Collection/`
 
 ---
 
-## 🧪 Practice & Experiments
+# 🌐 04. Web Development Fundamentals
 
-### Practice Codes
+Exploring basic web technologies to understand how applications and interfaces are structured.
 
-Small programs and exercises used to improve programming and problem-solving skills.
+**HTML**
+- Document structure
+- Elements and attributes
+- Forms and tables
+- Links and images
 
-📁 `Practice-Codes/`
+**CSS**
+- Selectors
+- Colors and typography
+- Box model
+- Flexbox
+- Layout and positioning
+- Responsive styling fundamentals
 
-### Projects
+`Directories: HTML/ | CSS/`
 
-Practical projects where I apply what I've learned.
+---
 
-📁 `Projects/`
+# 🧪 05. Projects & Practical Experiments
 
-### Notes
+Theory becomes meaningful when it is applied.
 
-Personal notes, explanations, references, and GitHub-related learning resources.
+The Projects directory contains practical implementations where I experiment with datasets, algorithms, model training and prediction.
 
-📁 `Notes/GitHub/`
+### My Development Workflow
+
+```text
+       PROBLEM IDENTIFICATION
+                │
+                ▼
+         DATA COLLECTION
+                │
+                ▼
+          DATA CLEANING
+                │
+                ▼
+      EXPLORATORY DATA ANALYSIS
+                │
+                ▼
+        FEATURE ENGINEERING
+                │
+                ▼
+          MODEL TRAINING
+                │
+                ▼
+         MODEL EVALUATION
+                │
+                ▼
+            PREDICTION
+                │
+                ▼
+       OPTIMIZATION & IMPROVEMENT
+```
+
+`Directory: Projects/`
+
+### Practice & Experiments
+
+Small coding exercises, algorithm implementations, experiments and personal learning notes.
+
+- `Practice-Codes/` — Programming practice and experiments.
+- `Notes/` — Technical notes, explanations and references.
+- `Github/` — Git and GitHub learning resources.
+
+---
+
+# 🛠️ 06. Technology Stack
+
+| Technology | Category | Purpose |
+|---|---|---|
+| Python | Programming | Core development |
+| NumPy | Computing | Numerical operations |
+| Pandas | Data Analysis | Data manipulation |
+| Matplotlib | Visualization | Data plotting |
+| Seaborn | Visualization | Statistical graphics |
+| SQL | Database | Data querying |
+| Scikit-learn | Machine Learning | Model development |
+| HTML | Web Development | Page structure |
+| CSS | Web Development | Interface styling |
+| Git | Version Control | Source code management |
+| GitHub | Collaboration | Repository management |
+
+---
+
+# 🧭 07. My Learning Roadmap
+
+The bigger picture of my journey toward becoming an AI/ML Engineer.
+
+```text
+                 PROGRAMMING
+                      │
+                      ▼
+               PYTHON & C++
+                      │
+                      ▼
+             DATA STRUCTURES
+                      │
+                      ▼
+             DATA MANIPULATION
+                      │
+                      ▼
+              DATA ANALYSIS
+                      │
+                      ▼
+             MACHINE LEARNING
+                      │
+          ┌───────────┴───────────┐
+          ▼                       ▼
+    SUPERVISED              UNSUPERVISED
+     LEARNING                 LEARNING
+          │                       │
+          └───────────┬───────────┘
+                      ▼
+              ADVANCED ML
+                      │
+                      ▼
+              DEEP LEARNING
+                      │
+                      ▼
+              NEURAL NETWORKS
+                      │
+          ┌───────────┴───────────┐
+          ▼                       ▼
+         NLP                 COMPUTER VISION
+          │                       │
+          └───────────┬───────────┘
+                      ▼
+               GENERATIVE AI
+                      │
+                      ▼
+                   MLOPS
+                      │
+                      ▼
+               AI ENGINEERING
+                      │
+                      ▼
+           REAL-WORLD AI SYSTEMS
+```
+
+---
+
+# 📈 08. Learning Progress
+
+A continuously evolving checklist of the concepts and technologies I'm exploring.
+
+### Foundations
+- [x] Python Fundamentals
+- [x] NumPy
+- [x] Pandas
+- [x] Matplotlib
+- [x] Seaborn
+- [x] SQL Fundamentals
+- [x] Data Collection
+- [x] Data Analysis
+- [x] Git & GitHub Basics
+
+### Machine Learning
+- [x] Supervised Learning Fundamentals
+- [x] Regression Algorithms
+- [x] Classification Algorithms
+- [x] Model Evaluation
+- [x] Unsupervised Learning Fundamentals
+- [x] Clustering
+- [x] PCA Fundamentals
+- [ ] Advanced Feature Engineering
+- [ ] Hyperparameter Optimization
+- [ ] Advanced Ensemble Methods
+
+### Advanced AI
+- [ ] Deep Learning
+- [ ] Neural Networks
+- [ ] Natural Language Processing
+- [ ] Computer Vision
+- [ ] Generative AI
+- [ ] Large Language Models
+- [ ] MLOps
+- [ ] AI System Design
+
+> Progress represents my learning journey and will be updated as I deepen my understanding and build practical implementations.
+
+---
+
+# 🎯 09. The Mission
+
+My long-term objective is to become an **AI/ML Engineer by 2028**.
+
+I want to move beyond simply training models and develop a deeper understanding of how intelligent systems work, from mathematical foundations and algorithms to deployment and real-world applications.
+
+My upcoming focus areas:
+
+- Advanced Machine Learning
+- Mathematical foundations of AI
+- Feature Engineering and Model Optimization
+- Deep Learning and Neural Networks
+- NLP and Computer Vision
+- Generative AI and LLMs
+- Model Deployment and MLOps
+- Building scalable AI-powered applications
+
+---
+
+# 🧠 My Learning Philosophy
+
+<div align="center">
+
+### LEARN → UNDERSTAND → IMPLEMENT → EXPERIMENT → BUILD → IMPROVE
+
+<br>
+
+*"Don't just learn how an algorithm works. Understand why it works, implement it, experiment with it, and discover where it can be used."*
+
+</div>
 
 ---
 
 # 📂 Repository Structure
 
 ```text
-📦 Machine-Learning-Repository
+Machine-Learning-Repository/
 │
-├── 📁 CSS
-├── 📁 Data_Collection
-├── 📁 Github
-├── 📁 HTML
-├── 📁 Matplotlib
-├── 📁 Notes
-│   └── 📁 GitHub
-├── 📁 Numpy
-├── 📁 Pandas
-├── 📁 Practice-Codes
-├── 📁 Projects
-├── 📁 Python
-├── 📁 SQL
-├── 📁 Seaborn
-├── 📁 Supervised_Learning
-├── 📁 Unsupervised_Learning
+├── CSS/
+├── Data_Collection/
+├── Github/
+├── HTML/
 │
-├── 📄 ML_AI_Engineer_Roadmap.pdf
-└── 📄 README.md
+├── Matplotlib/
+├── Numpy/
+├── Pandas/
+├── Seaborn/
+│
+├── Python/
+├── SQL/
+│
+├── Supervised_Learning/
+├── Unsupervised_Learning/
+│
+├── Practice-Codes/
+├── Projects/
+│
+├── Notes/
+│   └── GitHub/
+│
+├── ML_AI_Engineer_Roadmap.pdf
+│
+└── README.md
 ```
 
 ---
 
-# 🛠️ Technologies & Tools
+<div align="center">
 
-The main technologies and tools I am working with:
+# 🌌 THE JOURNEY NEVER ENDS
 
-| Technology      | Purpose                        |
-| --------------- | ------------------------------ |
-| 🐍 Python       | Programming & Machine Learning |
-| 🔢 NumPy        | Numerical Computing            |
-| 🐼 Pandas       | Data Analysis                  |
-| 📊 Matplotlib   | Data Visualization             |
-| 📈 Seaborn      | Statistical Visualization      |
-| 🗄️ SQL         | Database & Data Querying       |
-| 🤖 Scikit-learn | Machine Learning               |
-| 🌐 HTML         | Web Structure                  |
-| 🎨 CSS          | Web Styling                    |
-| 🐙 Git & GitHub | Version Control                |
+**Python → Data Science → Machine Learning → Deep Learning → AI Engineering**
 
----
+Every algorithm learned. Every error debugged. Every project built.
 
-# 🧠 Learning Roadmap
+One step closer to building intelligent systems.
 
-My learning path can be summarized as:
+<br>
 
-```text
-Python
-   ↓
-NumPy
-   ↓
-Pandas
-   ↓
-Data Cleaning
-   ↓
-Data Visualization
-   ↓
-SQL
-   ↓
-Exploratory Data Analysis
-   ↓
-Machine Learning
-   ↓
-Supervised Learning
-   ↓
-Unsupervised Learning
-   ↓
-Machine Learning Projects
-   ↓
-Deep Learning
-   ↓
-AI Engineering
-```
+⭐ **Thanks for visiting my repository!**
 
----
+*Built with curiosity, consistency, and a passion for Artificial Intelligence.*
 
-# 🚀 Projects
-
-The `Projects/` folder contains practical projects where I apply the concepts I learn.
-
-For each project, I aim to work through:
-
-```text
-Problem Definition
-       ↓
-Data Collection
-       ↓
-Data Cleaning
-       ↓
-Exploratory Data Analysis
-       ↓
-Feature Engineering
-       ↓
-Model Training
-       ↓
-Model Evaluation
-       ↓
-Prediction
-       ↓
-Improvement
-```
-
----
-
-# 📖 How I Use This Repository
-
-This repository serves as my personal **learning journal and portfolio**.
-
-I use it to:
-
-* 📚 Store my learning notes
-* 💻 Practice Python and ML
-* 🧪 Experiment with algorithms
-* 📊 Analyze datasets
-* 🤖 Build Machine Learning models
-* 🚀 Develop projects
-* 📝 Track my progress
-* 🔄 Review concepts I've learned
-
----
-
-# 🎯 Current Goal
-
-My goal is to progress from the fundamentals of programming and data analysis toward becoming a **Machine Learning / AI Engineer**.
-
-I am focusing on building strong fundamentals first and then gradually moving toward more advanced topics such as:
-
-* Advanced Machine Learning
-* Feature Engineering
-* Model Optimization
-* Deep Learning
-* Neural Networks
-* Natural Language Processing
-* Computer Vision
-* Generative AI
-* MLOps
-* AI Engineering
-
----
-
-# 📈 Learning Progress
-
-* [x] Python Fundamentals
-* [x] NumPy
-* [x] Pandas
-* [x] Matplotlib
-* [x] Seaborn
-* [x] SQL Fundamentals
-* [x] Data Collection
-* [x] Data Analysis
-* [x] Supervised Learning
-* [x] Unsupervised Learning
-* [x] Git & GitHub Basics
-* [ ] Advanced Machine Learning
-* [ ] Deep Learning
-* [ ] Neural Networks
-* [ ] NLP
-* [ ] Computer Vision
-* [ ] Generative AI
-* [ ] MLOps
-* [ ] Advanced AI Engineering
-
-> **Note:** The checklist represents my learning roadmap and will continue to evolve as I learn and build more projects.
-
----
-
-# 💡 Philosophy
-
-> **Learn → Practice → Build → Break → Debug → Improve → Repeat.**
-
-I believe the best way to learn Machine Learning is not only by studying theory, but also by **writing code, experimenting with data, building projects, and learning from mistakes**.
-
----
-
-# 🌱 Continuous Learning
-
-This repository is a work in progress.
-
-As I learn new concepts, complete projects, and explore new technologies, I will continue updating this repository.
-
-⭐ If you find this repository useful, feel free to explore the code and follow along with my learning journey.
-
----
-
-## 👨‍💻 Learning Journey
-
-**From Python basics → Data Science → Machine Learning → AI Engineering**
-
-🚀 **One concept, one project, and one step at a time.**
+</div>
